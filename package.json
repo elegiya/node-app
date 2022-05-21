@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "nodejs-complete-guide",
   "version": "1.0.0",
   "description": "Complete nodeJs guide",
   "main": "app.js",
@@ -11,7 +11,7 @@
   "author": "Marina Gaponova",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "^1.18.3"
   },
   "dependencies": {
     "express": "^4.18.1"
